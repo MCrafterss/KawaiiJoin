@@ -1,6 +1,6 @@
 <?php
 
-namespace KawaiiJoin;
+namespace Mcrafters;
 
 use pocketmine\math\Vector3;
 use pocketmine\level\Position;
